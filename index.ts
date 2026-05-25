@@ -1,5 +1,2 @@
-function greet(name) {
-    return `Olá ${name}`;
-}
-
-console.log(greet('Luiz'));
+const nome = 'Luiz';
+const sobrenome = "Otávio";
