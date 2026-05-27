@@ -3,7 +3,7 @@ let nome: string = 'Luiz'; // qualquer tipo de strings: '' "" ``
 let idade: number = 30; // 10, 1.57, -5.55, 0xf00d, 0b1010, 0o744
 let adulto: boolean = true; // true ou false
 let simbolo: symbol = Symbol('qualquer-symbol'); // symbol
-let big: bigint = 10n; // bigint
+// let big: bigint = 10n; // bigint
 
 // Arrays
 // exemplos 1:
@@ -24,4 +24,3 @@ function soma(x: number, y: number): number {
   return x + y;
 }
 
-console.log(soma(2, 3));

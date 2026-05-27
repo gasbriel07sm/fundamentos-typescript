@@ -1,5 +1,9 @@
 {
     "code-runner.executorMap": {
-        "typescript": "cls && npx ts-node --files",
-    }
+  "typescript": "npx ts-node --files"
+  },
+  "terminal.integrated.env.windows": {
+    "FORCE_COLOR": "0"
+  },
+    "code-runner.showExecutionMessage": false
 }
