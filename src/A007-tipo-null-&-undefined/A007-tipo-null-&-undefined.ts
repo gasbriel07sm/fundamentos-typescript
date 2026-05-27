@@ -18,3 +18,5 @@ if (squareOfTwo !== null) {
 } else {
   console.log('Input is not a number');
 }
+
+export { x };
