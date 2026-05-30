@@ -8,6 +8,8 @@
     "types": ["node"],
     "strict": true,
     "skipLibCheck": true,
-    "sourceMap": true
+    "sourceMap": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true
   }
 }
